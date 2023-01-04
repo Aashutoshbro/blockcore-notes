@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1672862880990,
+  "timestamp": 1672875652232,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b4e728871b9acfcb.js",
+        "/main.8742b352063072f0.js",
         "/manifest.webmanifest",
         "/polyfills.c8e781024e119006.js",
         "/runtime.cd6e88a835f926ef.js",
-        "/styles.2dfe2cbbf54a739a.css"
+        "/styles.887a833108f42aa6.css"
       ],
       "patterns": []
     },
@@ -32,7 +32,6 @@
         "/assets/bg.jpg",
         "/assets/blockcore-light-small.png",
         "/assets/blockcore-notes-screenshot.png",
-        "/assets/connect-bg.jpg",
         "/assets/icon.svg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-16x16.png",
@@ -59,7 +58,6 @@
     "/assets/bg.jpg": "a6a1fae1e65fca818d420d27af3baf69d039acfa",
     "/assets/blockcore-light-small.png": "53480e79ba977f2705dd9ea529bfdea18949820b",
     "/assets/blockcore-notes-screenshot.png": "bf785292460ee1327231c2eedc9f9c3cc80af852",
-    "/assets/connect-bg.jpg": "c52961538ee0e4ba7be91d01d4e6c0f537f10038",
     "/assets/icon.svg": "3dd24d73fa8cf0a1a89ea611aedbe741ad9b7995",
     "/assets/icons/icon-128x128.png": "4af6e0c92b881022818f5953353768e48a8122e5",
     "/assets/icons/icon-16x16.png": "771ba804fccfe2b61d05e0fed9e5f7c9424177ac",
@@ -76,14 +74,14 @@
     "/assets/profile-bg.png": "72e07b2ba4f4cb3b9c0cf3351bdbba178646e41e",
     "/assets/profile.png": "35f15a95e5fc7939121c71638a0cd8fe9830f7b6",
     "/favicon.ico": "e225f1ea8ad3872db850d760a394fa09d353c80d",
-    "/index.html": "13dc54e756694504e4eb5031502e18ff19f73f63",
-    "/main.b4e728871b9acfcb.js": "b35e6d5fe6d4f38e1c85178d20e939e578e0eb0a",
+    "/index.html": "b08a04663556d89c0cce0449c8e9db90d2afd003",
+    "/main.8742b352063072f0.js": "28ba7261beef7f4a6fb654aaa3e31c5ccaf208df",
     "/manifest.webmanifest": "8a41035aa93cdfe1011a7f59859d81acbb23b0b7",
     "/material-icons-base-400-normal.6a5d2b3f2786b8b0.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
     "/material-icons-base-400-normal.a987d1598549506d.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
     "/polyfills.c8e781024e119006.js": "20c0c6c5accebebdf2c9a3cc4fbd15374586d1af",
     "/runtime.cd6e88a835f926ef.js": "e9fcdd93e7d5f728d3b170587162b515a4435797",
-    "/styles.2dfe2cbbf54a739a.css": "94672803e888665023a86b10863db6214437495b"
+    "/styles.887a833108f42aa6.css": "70fdc323a300c69e1b5610451676e36a8930ff6b"
   },
   "navigationUrls": [
     {
