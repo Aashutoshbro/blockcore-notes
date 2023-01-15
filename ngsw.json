@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673751977081,
+  "timestamp": 1673753831753,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.562d98a706579078.js",
+        "/main.59edf1aef3e61212.js",
         "/manifest.webmanifest",
         "/polyfills.c8e781024e119006.js",
         "/runtime.cd6e88a835f926ef.js",
@@ -32,6 +32,7 @@
         "/assets/bg.jpg",
         "/assets/blockcore-light-small.png",
         "/assets/blockcore-notes-screenshot.png",
+        "/assets/gradient.jpg",
         "/assets/icon.svg",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-16x16.png",
@@ -58,6 +59,7 @@
     "/assets/bg.jpg": "a6a1fae1e65fca818d420d27af3baf69d039acfa",
     "/assets/blockcore-light-small.png": "53480e79ba977f2705dd9ea529bfdea18949820b",
     "/assets/blockcore-notes-screenshot.png": "bf785292460ee1327231c2eedc9f9c3cc80af852",
+    "/assets/gradient.jpg": "25f5214c12d2f72e56d0aef974f835e7faf3c199",
     "/assets/icon.svg": "3dd24d73fa8cf0a1a89ea611aedbe741ad9b7995",
     "/assets/icons/icon-128x128.png": "4af6e0c92b881022818f5953353768e48a8122e5",
     "/assets/icons/icon-16x16.png": "771ba804fccfe2b61d05e0fed9e5f7c9424177ac",
@@ -74,8 +76,8 @@
     "/assets/profile-bg.png": "72e07b2ba4f4cb3b9c0cf3351bdbba178646e41e",
     "/assets/profile.png": "35f15a95e5fc7939121c71638a0cd8fe9830f7b6",
     "/favicon.ico": "e225f1ea8ad3872db850d760a394fa09d353c80d",
-    "/index.html": "230642699dbdf2bee229df67d8c974e12a011dbf",
-    "/main.562d98a706579078.js": "9ef69807d434d275bcc2cc67b71999ad19e6e31a",
+    "/index.html": "75141f3ffa2b0d09e9616054dfc70a510ca40b78",
+    "/main.59edf1aef3e61212.js": "df26ae25b1fcea056015b22d7befe751b564f559",
     "/manifest.webmanifest": "b1e30055bddfe285094f76f475959fe8dc619471",
     "/material-icons-base-400-normal.6a5d2b3f2786b8b0.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
     "/material-icons-base-400-normal.a987d1598549506d.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
