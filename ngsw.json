@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674228373898,
+  "timestamp": 1674248203423,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -32,6 +32,7 @@
         "/assets/bg.jpg",
         "/assets/blockcore-light-small.png",
         "/assets/blockcore-notes-screenshot.png",
+        "/assets/blockcore-notes-social.png",
         "/assets/gradient.jpg",
         "/assets/icon.svg",
         "/assets/icons/icon-128x128.png",
@@ -62,6 +63,7 @@
     "/assets/bg.jpg": "6f144bd16cfa604f2b443053b72f65085d79b16e",
     "/assets/blockcore-light-small.png": "53480e79ba977f2705dd9ea529bfdea18949820b",
     "/assets/blockcore-notes-screenshot.png": "bf785292460ee1327231c2eedc9f9c3cc80af852",
+    "/assets/blockcore-notes-social.png": "1d8540baaf6f7e4cbb157c718c8ee0124c21f560",
     "/assets/gradient.jpg": "25f5214c12d2f72e56d0aef974f835e7faf3c199",
     "/assets/icon.svg": "3dd24d73fa8cf0a1a89ea611aedbe741ad9b7995",
     "/assets/icons/icon-128x128.png": "4af6e0c92b881022818f5953353768e48a8122e5",
@@ -82,7 +84,7 @@
     "/assets/profile-bg.png": "72e07b2ba4f4cb3b9c0cf3351bdbba178646e41e",
     "/assets/profile.png": "35f15a95e5fc7939121c71638a0cd8fe9830f7b6",
     "/favicon.ico": "e225f1ea8ad3872db850d760a394fa09d353c80d",
-    "/index.html": "271f338a077c68e36a59abfcb01491057a9d7e3f",
+    "/index.html": "61e3092ad2a388aa671db71233c67a5a48383530",
     "/main.c463bd3f6d6773f3.js": "97493dac8f63f07742c76d54effef2797fdd0113",
     "/manifest.webmanifest": "b1e30055bddfe285094f76f475959fe8dc619471",
     "/material-icons-base-400-normal.6a5d2b3f2786b8b0.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
