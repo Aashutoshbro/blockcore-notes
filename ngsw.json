@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677165880018,
+  "timestamp": 1677167272918,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/472.6699de8963831a80.js",
         "/favicon.ico",
         "/index.html",
-        "/main.474bfa1b3e7c6996.js",
+        "/main.cc29eb5373313fec.js",
         "/manifest.webmanifest",
         "/polyfills.8e6f02aba33b3b3c.js",
         "/runtime.2940b36a369930a2.js",
@@ -30,6 +30,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/badge-1024x1024.png",
+        "/assets/badge-128x128.png",
+        "/assets/badge-512x512.png",
         "/assets/bg.jpg",
         "/assets/blank.png",
         "/assets/blockcore-light-small.png",
@@ -66,6 +69,9 @@
   "dataGroups": [],
   "hashTable": {
     "/472.6699de8963831a80.js": "9685b8cc4080c42ec37c6939fa94690bcd84fcb4",
+    "/assets/badge-1024x1024.png": "6b243a1b557ac27ba66255813f419579c0a29149",
+    "/assets/badge-128x128.png": "530be6f8d900da745a127c1bfeffd6ba0647c704",
+    "/assets/badge-512x512.png": "ebdab5b99e10df5781e1aa17b301619dc171a4b2",
     "/assets/bg.jpg": "6f144bd16cfa604f2b443053b72f65085d79b16e",
     "/assets/blank.png": "9bd57a695b57b5d7f66e14ac82a253361a927b3c",
     "/assets/blockcore-light-small.png": "53480e79ba977f2705dd9ea529bfdea18949820b",
@@ -94,8 +100,8 @@
     "/assets/profile.png": "35f15a95e5fc7939121c71638a0cd8fe9830f7b6",
     "/assets/shared.worker.js": "2869d9f1b26076a62d0182dd1b9b309702cfcb67",
     "/favicon.ico": "e225f1ea8ad3872db850d760a394fa09d353c80d",
-    "/index.html": "a2de44e4c4f85464ceae0f2ca3cec3ca11d06e31",
-    "/main.474bfa1b3e7c6996.js": "b64b24c5a38ec36f4ae6e7c57423d97c751a087e",
+    "/index.html": "05f8d0b43b22794b29d69ff84af21cc6c57de150",
+    "/main.cc29eb5373313fec.js": "c08635ceefe8d0423feb515675a15d23d111d14b",
     "/manifest.webmanifest": "18c63e15259398163fdd7648eefa706ceb6e4ed7",
     "/material-icons-base-400-normal.6a5d2b3f2786b8b0.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
     "/material-icons-base-400-normal.a987d1598549506d.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
