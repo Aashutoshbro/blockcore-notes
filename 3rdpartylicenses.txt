@@ -147,6 +147,12 @@ SOFTWARE.
 @ng-matero/extensions
 MIT
 
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
+MIT
+
 @noble/hashes
 MIT
 The MIT License (MIT)
