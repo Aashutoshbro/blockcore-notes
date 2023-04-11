@@ -960,6 +960,7 @@ ngx-loading-buttons
 MIT
 
 nostr-tools
+Public domain
 
 object-inspect
 MIT
