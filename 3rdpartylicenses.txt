@@ -304,6 +304,9 @@ THE SOFTWARE.
 @twogate/ngx-photo-gallery
 MIT
 
+angular-mentions
+MIT
+
 angularx-qrcode
 MIT
 The MIT License (MIT)
